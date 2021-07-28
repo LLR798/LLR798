@@ -8,4 +8,4 @@ Adoro esse mundo da tecnologia, e gosto muito de resolver problemas e aprender. 
 
 Me acompanhe 👇
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-lumertz/)](https://www.linkedin.com/in/lucas-lumertz//) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/lucas_lumertz/)](https://www.instagram.com/lucas_lumertz/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-lumertz/)](https://www.linkedin.com/in/lucas-lumertz//) [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/lucas_lumertz/)](https://www.instagram.com/lucas_lumertz/)
