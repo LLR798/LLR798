@@ -6,7 +6,7 @@ Sou estudante de análise e desenvolvimento de sistemas, mas venho estudando pro
 
 Tenho familiaridade com HTML e CSS, e estou me aprimorando em JS, ReactJS e NodeJS.
 
-Adoro esse mundo da tecnologia, e gosto muito de resolver problemas e aprender. Estou sempre aberto a novos desafios e pronto para enfrentar as mudanças.
+Adoro esse mundo da tecnologia, e gosto muito de aprender coisas novas. Estou sempre aberto a novos desafios e pronto para enfrentar as mudanças.
 
 Me acompanhe 👇
 
