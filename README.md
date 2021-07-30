@@ -19,7 +19,7 @@ Adoro esse mundo da tecnologia, e gosto muito de aprender coisas novas. Estou se
 
 <p align="center"> Me acompanhe 👇</p>
 <p align="center">
-<a href="https://linkedin.com/in/lucas-lumertz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vscsilva" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lucas-lumertz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vscsilva" height="30" width="40" /></a>
 </p>
 
 
