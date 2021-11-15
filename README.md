@@ -4,7 +4,7 @@ Me chamo Lucas Lumertz.
 
 Sou estudante de análise e desenvolvimento de sistemas, mas venho estudando programação desde de 01/2021. 💻
 
-Tenho familiaridade com HTML e CSS, e estou me aprimorando em JS, ReactJS e NodeJS.
+Tenho familiaridade com HTML e CSS, e estou me aprimorando em JS.
 
 Adoro esse mundo da tecnologia, e gosto muito de aprender coisas novas. Estou sempre aberto a novos desafios e pronto para enfrentar as mudanças.
 
