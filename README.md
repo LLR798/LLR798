@@ -2,9 +2,9 @@
 
 Me chamo Lucas Lumertz.
 
-Sou estudante de análise e desenvolvimento de sistemas, mas venho estudando programação desde de 01/2021. 💻
+Sou estudante de análise e desenvolvimento de sistemas, estudo UX/UI Design e programção front-end, pois gosto muito de ambas e acho que se complementam bem. 💻
 
-Tenho familiaridade com HTML e CSS, e estou me aprimorando em JS.
+Tenho familiaridade com Figma para prototipação, HTML e CSS, e estou me aprimorando em JS.
 
 Adoro esse mundo da tecnologia, e gosto muito de aprender coisas novas. Estou sempre aberto a novos desafios e pronto para enfrentar as mudanças.
 
