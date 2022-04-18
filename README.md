@@ -2,9 +2,9 @@
 
 Me chamo Lucas Lumertz.
 
-Sou estudante de análise e desenvolvimento de sistemas, estudo UX/UI Design e programção front-end, pois gosto muito de ambas e acho que se complementam bem. 💻
+Sou estudante de análise e desenvolvimento de sistemas, tenho conhecimento em UI Design, programção front-end, e estudo desenvolvimento mobile, pois gosto muito de ambas e acho que se complementam bem. 💻
 
-Tenho familiaridade com Figma para prototipação, HTML e CSS, e estou me aprimorando em JS.
+Tenho familiaridade com Figma para prototipação, HTML e CSS, e estou me aprimorando em Flutter.
 
 Adoro esse mundo da tecnologia, e gosto muito de aprender coisas novas. Estou sempre aberto a novos desafios e pronto para enfrentar as mudanças.
 
@@ -15,6 +15,7 @@ Adoro esse mundo da tecnologia, e gosto muito de aprender coisas novas. Estou se
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://flutter.dev/" target="_blank"> <img src="https://storage.googleapis.com/cms-storage-bucket/6a07d8a62f4308d2b854.svg" alt="flutter" width="110" height="40"/> </a>
 </p>
 
 <p align="center"> Me acompanhe 👇</p>
