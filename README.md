@@ -4,7 +4,7 @@ Me chamo Lucas Lumertz.
 
 Sou estudante de engenharia de software e análise e desenvolvimento de sistemas, tenho conhecimento em UI Design, front-end e desenvolvimento mobile. 💻
 
-Tenho familiaridade com GIT, Figma para prototipação, HTML, CSS e o básico de JS, e estou me aprimorando em Flutter.
+Tenho familiaridade com GIT, Figma para prototipação, HTML, CSS e o básico de JS, e estou me aprimorando no front-end e no C# e .NET para o back-end.
 
 Adoro esse mundo da tecnologia, e gosto muito de aprender coisas novas. Estou sempre aberto a novos desafios e pronto para enfrentar as mudanças.
 
