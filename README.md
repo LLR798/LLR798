@@ -2,9 +2,9 @@
 
 Me chamo Lucas Lumertz.
 
-Sou estudante de engenharia de software e análise e desenvolvimento de sistemas, tenho conhecimento em UI Design, front-end e desenvolvimento mobile. 💻
+Sou estudante de engenharia de software e análise e desenvolvimento de sistemas, tenho conhecimento em UI Design, front-end. 💻
 
-Tenho familiaridade com GIT, Figma para prototipação, HTML, CSS e o básico de JS, e estou me aprimorando no front-end e em python para o back-end.
+Tenho familiaridade com GIT, Figma para prototipação, HTML, CSS e o básico de JS, e estou me aprimorando no front-end e em C# e .NET para o back-end.
 
 Adoro esse mundo da tecnologia, e gosto muito de aprender coisas novas. Estou sempre aberto a novos desafios e pronto para enfrentar as mudanças.
 
@@ -16,7 +16,7 @@ Adoro esse mundo da tecnologia, e gosto muito de aprender coisas novas. Estou se
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://flutter.dev/" target="_blank"> <img src="https://storage.googleapis.com/cms-storage-bucket/6a07d8a62f4308d2b854.svg" alt="flutter" width="110" height="40"/> </a>
-<a href="https://www.python.org/" target="_blank"> <img src="https://www.python.org/static/img/python-logo@2x.png" alt="flutter" width="140" height="40"/> </a>
+<a href="https://www.pulumi.com/logos/tech/dotnet.png" target="_blank"> <img src="https://www.pulumi.com/logos/tech/dotnet.png" alt="dotnet" width="50" height="50"/> </a>
 </p>
 
 <p align="center"> Me acompanhe 👇</p>
