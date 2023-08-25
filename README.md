@@ -1,5 +1,5 @@
 # About Me:
- Welcome! 👋<br><br>I'm a student of software engineering and systems analysis and development.  I have knowledge in GIT, Figma for prototyping, JavaScript, ReactJS, C#, .NET, ASP.NET, Entity Framework, SQL Server, Flutter e Firebase.💻<br><br>I keep studying for learn more and more. 📘<br><br>I love this world of technology, and I really enjoy learning new things. I am always open to new challenges.
+ Welcome! 👋<br><br>I'm a student of software engineering and systems analysis and development.  I have knowledge in GIT, Figma for prototyping, JavaScript, ReactJS, C#, .NET, ASP.NET, Entity Framework, SQL Server, Flutter and Firebase.💻<br><br>I keep studying for learn more and more. 📘<br><br>I love this world of technology, and I really enjoy learning new things. I am always open to new challenges.
 
 
 ## 🌐 Socials:
