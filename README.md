@@ -1,5 +1,5 @@
 # About Me:
- Welcome! 👋<br><br>I'm a Data Engineer and Data Analyst.  I have knowledge in GIT, Figma for prototyping, JavaScript, Python, Numpy, Pandas, SQL, ETL, Power BI, Looker Studio, BigQuery, Cloud Storage and AWS for Data Engineering and Data Analitycs. 💻<br><br>I keep studying for learn more and more. 📘<br><br>I love this world of technology, and I really enjoy learning new things. I am always open to new challenges.
+ Welcome! 👋<br><br>I'm a Data Engineer and Data Analyst.  I have knowledge in GIT, Figma for prototyping, JavaScript, Python, Numpy, Pandas, SQL, ETL, Power BI, Looker Studio, Redshift, S3 and AWS for Data Engineering and Data Analitycs. 💻<br><br>I keep studying for learn more and more. 📘<br><br>I love this world of technology, and I really enjoy learning new things. I am always open to new challenges.
 
 
 ## 🌐 Socials:
