@@ -1,5 +1,14 @@
 ## About Me:
- Welcome! 👋<br><br>I'm a Data Engineer and Data Analyst.  I have knowledge in GIT, Figma for prototyping, JavaScript, Python, Numpy, Pandas, SQL, ETL, Power BI, Looker Studio, Redshift, S3 and AWS for Data Engineering and Data Analitycs. 💻<br><br>I keep studying for learn more and more. 📘<br><br>I love this world of technology, and I really enjoy learning new things. I am always open to new challenges.
+
+Welcome! 👋<br><br>I'm a **Data Engineer** with a strong background in Analytics Engineering in MDM8 and OSPA place. I specialize in building and orchestrating scalable Big Data pipelines, dimensional modeling, and cloud architectures to turn complex data into strategic impact.
+
+* **Core Stack:** Python, SQL, Apache Airflow, Apache Spark, and Databricks.
+* **Cloud & DevOps:** AWS (S3, Lambda, EC2), Docker, Terraform, and CI/CD with GitHub Actions.
+* **Analytics & Databases:** PostgreSQL/PostGIS, Power BI, and Looker Studio.
+
+I keep studying for learn more and more. 📘<br><br>I love this world of technology, and I really enjoy learning new things.
+
+Always building, optimizing, and sharing knowledge along the way.  I'm always open to new challenges and to collaborating on high-impact data initiatives! 🚀
 
 
 ### 🌐 Socials:
