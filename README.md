@@ -6,9 +6,9 @@ Welcome! 👋<br><br>I'm a **Data Engineer** with a strong background in Analyti
 * **Cloud & DevOps:** AWS (S3, Lambda, EC2), Docker, Terraform, and CI/CD with GitHub Actions.
 * **Analytics & Databases:** PostgreSQL/PostGIS, Power BI, and Looker Studio.
 
-I keep studying for learn more and more. 📘<br><br>I love this world of technology, and I really enjoy learning new things.
+I keep studying for learn more and more. <br><br>I love this world of technology, and I really enjoy learning new things.
 
-Always building, optimizing, and sharing knowledge along the way.  I'm always open to new challenges and to collaborating on high-impact data initiatives! 🚀
+Always building, optimizing, and sharing knowledge along the way.  I'm always open to new challenges and to collaborating on high-impact data initiatives!
 
 
 ### 🌐 Socials:
